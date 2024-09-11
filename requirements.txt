@@ -9,4 +9,4 @@ Werkzeug==2.2.3
 WTForms==3.0.1
 SQLAlchemy==2.0.19
 gunicorn==21.2.0
-PyPI==2.1
+psycopg2>=2.7,<2.8 --no-binary psycopg2
